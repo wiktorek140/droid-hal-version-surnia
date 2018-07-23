@@ -4,6 +4,6 @@
 %define vendor_pretty Motorola
 %define device_pretty Moto E2 LTE
 #See ../droid-hal-version/droid-hal-device.inc forsimilar macros:
-%define have_vibrator 1
+%define have_vibrator_native 1
 %define have_led 1
 %include droid-hal-version/droid-hal-version.inc
